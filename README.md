@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/madoka.gif" width="300" alt="Madoka">
+<img src="madoka.gif" width="300" alt="Madoka">
 
 <br><br>
 
