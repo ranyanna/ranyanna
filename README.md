@@ -1,46 +1,52 @@
 <div align="center">
 
-<img src="./assets/nana.gif" width="220" alt="Nana Osaki">
+<img src="./assets/madoka.gif" width="300" alt="Madoka">
 
 <br><br>
 
-<h2>hello, i'm ranyanna ♡</h2>
+<h3>hello, i'm ranyanna ♡</h3>
 
-<p>
-  <sub>Software Engineering student · Web Development · Brazil 🇧🇷</sub>
-</p>
+<sub>Software Engineering student · Web Development · Brazil 🇧🇷</sub>
 
 </div>
 
 <br>
 
-### 🌙 about me
+<p align="center">
+  🌙 <strong>about me</strong>
+</p>
 
 Hi! I'm Ranyanna, a Software Engineering student currently focused on web development.
 
 I'm interested in building interfaces, learning more about JavaScript and React, and improving my programming logic. I also have experience with Java, HTML, CSS and Git through my studies and personal projects.
 
-I'm currently looking for opportunities to gain professional experience in the tech field.
+I'm currently looking for an internship opportunity where I can gain professional experience and continue developing my skills in software development.
 
 <br>
 
-### 💻 currently learning
+<p align="center">
+  💻 <strong>currently learning</strong>
+</p>
 
-`JavaScript` · `React` · `Problem Solving` · `Software Engineering`
+<p align="center">
+  JavaScript · React · Problem Solving · Software Engineering
+</p>
 
 <br>
 
-### 🎀 portfolio
+<p align="center">
+  🎀 <strong>portfolio</strong>
+</p>
 
 I'm currently working on my personal portfolio, improving my existing projects and developing new ones to better represent my work and what I'm learning.
 
-I'm using it as a way to keep practicing, organize my projects and build a stronger foundation in web development.
+I'm using it to practice, organize my projects and continue developing my skills in web development.
 
-<br>
+<br><br>
 
 <div align="center">
 
-♡ 🎧 🖤 ✦ 🌙
+🖤 · 🎧 · ✦ · 🌙 · ♡
 
 <br><br>
 
