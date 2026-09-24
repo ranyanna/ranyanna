@@ -45,11 +45,5 @@ I'm using it to practice, organize my projects and continue developing my skills
 <br><br>
 
 <div align="center">
-
-🖤 · 🎧 · ✦ · 🌙 · ♡
-
-<br><br>
-
-<sub>thanks for stopping by ♡</sub>
-
+  🖤 · 🎧 · ✦ · 🌙 · ♡
 </div>
