@@ -15,5 +15,6 @@ Atualmente, estou focada em desenvolvimento web, lógica de programação e cons
 ---
 
 ### 🛠️ Tecnologias
-
-HTML • CSS • JavaScript • React • Git • GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
